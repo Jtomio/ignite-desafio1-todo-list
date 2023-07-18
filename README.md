@@ -8,6 +8,12 @@ Primeiro desafio do Ignite da Rockeseat.
 
 ![GitHub](https://img.shields.io/badge/License-MIT-green)
 
+## Preview
+
+<p align="center">
+  <img src="./src/assets/review.png" alt="Descrição da Imagem">
+</p>
+
 
 ## Create new project
 
