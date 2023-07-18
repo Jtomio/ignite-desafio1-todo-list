@@ -14,6 +14,10 @@ Primeiro desafio do Ignite da Rockeseat.
   <img src="./src/assets/review.png" alt="Descrição da Imagem">
 </p>
 
+## 🔗 Deploy
+
+[To do list](https://challenge-todo-list-pi.vercel.app/)
+
 
 ## Create new project
 
